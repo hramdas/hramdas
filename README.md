@@ -2,9 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hedgapurer?label=Follow)](https://twitter.com/intent/follow?screen_name=hedgapurer)
 [![Linkedin: hramdas](https://img.shields.io/badge/-hramdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hramdas/)](https://www.linkedin.com/in/hramdas/)
-
 </a>
-<br/>
 <br/>
 
 I'm a passionate full stack developer living in India
