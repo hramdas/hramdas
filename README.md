@@ -10,23 +10,15 @@ I'm a passionate full stack developer living in India
 <br/>
 ## Languages and Tools
 <div align="start" >
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/javascript.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/html.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/css.svg" />
-
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
-  
-  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
+  <img alt="React" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
+  <img alt="ExpressJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
+  <img alt="NodeJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
+  <img alt="Javascript" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/javascript.svg" />
+  <img alt="MongoDb" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
+  <img alt="HTML" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/html.svg" />
+  <img alt="CSS" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/css.svg" />
+  <img alt="NextJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
+  <img alt="NPM" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
 </div>
 
 
