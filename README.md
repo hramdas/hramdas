@@ -5,7 +5,7 @@
 </a>
 <br/>
 
-Hello, my name is Ramdas Hedgapure. I'm a full stack developer living in India.
+Hello, my name is Ramdas Hedgapure. I'm a passionate full stack developer from India.
 
 - 📫 How to reach me: hedgapurer@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
