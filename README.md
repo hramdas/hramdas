@@ -1,11 +1,15 @@
-## Hi <img src="files\wave-gif.gif" width="30px">, I'm Ramdas Hedgapure
+## Hi <img src="files\wave-gif.gif" width="30px">, I'm Ramdas😊
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hedgapurer?label=Follow)](https://twitter.com/intent/follow?screen_name=hedgapurer)
 [![Linkedin: hramdas](https://img.shields.io/badge/-hramdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hramdas/)](https://www.linkedin.com/in/hramdas/)
 </a>
 <br/>
 
-I'm a passionate full stack developer living in India
+Hello, my name is Ramdas Hedgapure. I'm a full stack developer living in India.
+
+- 📫 How to reach me: hedgapurer@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
+
 <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350"  />
 
@@ -27,8 +31,6 @@ I'm a passionate full stack developer living in India
 ## 📊My Github Stats
 <p>
     <a href="https://github.com/hramdas">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramdas Hedgapure's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hramdas&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Ramdas's streak stats" alt="Ramdas Hedgapure's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hramdas&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
-
-
