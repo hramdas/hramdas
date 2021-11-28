@@ -1,22 +1,21 @@
-# Hello I am Ramdas Hedgapure
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/hramdas/hramdas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hramdas&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/hramdas/hramdas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hramdas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+## Hi <img src="files\wave-gif.gif" width="30px">, I'm Ramdas Hedgapure
+<a href="https://www.linkedin.com/in/hramdas/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- <a href="https://github.com/hramdas/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<br/>
+<br/>
 
+I'm a passionate full stack developer living in Indi
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
+## 📊 My Github Stats
+<br/>
+<p>
+    <a href="https://github.com/hramdas">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramdas Hedgapure's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hramdas&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
+
 
 <!-- links to social media icons -->
 
