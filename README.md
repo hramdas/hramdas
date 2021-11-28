@@ -1,12 +1,26 @@
 ## Hi <img src="files\wave-gif.gif" width="30px">, I'm Ramdas Hedgapure
 <a href="https://www.linkedin.com/in/hramdas/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ramdas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/>
 <br/>
 
-I'm a passionate full stack developer living in Indi
+I'm a passionate full stack developer living in India
+<br/>
+## Languages and Tools
+<div align="start" >
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/javascript.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/html.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/css.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
+  <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
+</div>
+
 
 ## 📊 My Github Stats
 <br/>
@@ -17,21 +31,3 @@ I'm a passionate full stack developer living in Indi
 </p>
 
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://github.com/hramdas
-[2]: https://www.linkedin.com/in/hramdas/
