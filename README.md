@@ -7,7 +7,7 @@
 
 I'm a passionate full stack developer from India.
 
-- 📫 Ccntact me here: hedgapurer@gmail.com
+- 📫 Contact me here: hedgapurer@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
 
 <br/>
