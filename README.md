@@ -23,9 +23,9 @@ I'm a passionate full stack developer living in India
   <img alt="NPM" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
 </div>
 
-
-## 📊 My Github Stats
 <br/>
+
+## 📊My Github Stats
 <p>
     <a href="https://github.com/hramdas">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramdas Hedgapure's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hramdas&theme=react&hide_border=true&bg_color=0D1117"/>
