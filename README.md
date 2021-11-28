@@ -1,8 +1,8 @@
 ## Hi <img src="files\wave-gif.gif" width="30px">, I'm Ramdas Hedgapure
+
 <a href="https://www.linkedin.com/in/hramdas/">
   <img align="left" alt="Ramdas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br/>
 <br/>
 
