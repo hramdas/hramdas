@@ -11,13 +11,21 @@ I'm a passionate full stack developer living in India
 ## Languages and Tools
 <div align="start" >
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/javascript.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/html.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/css.svg" />
+
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
+  
   <img src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
 </div>
 
