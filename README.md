@@ -8,6 +8,8 @@
 
 I'm a passionate full stack developer living in India
 <br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350"  />
+
 ## Languages and Tools
 <div align="start" >
   <img alt="React" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
