@@ -5,7 +5,7 @@
 </a>
 <br/>
 
-I'm a passionate full stack developer from India.
+I'm a passionate full stack developer living in India.
 
 - 📫 Contact me here: hedgapurer@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
