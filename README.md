@@ -9,7 +9,7 @@ I am an aspiring full-stack developer capable of writing production ready code u
 </a>
 <br/>
 <br/>
-🌱 I’m currently working on MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJs)
+🌱 I’m currently working on MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
 - 📫 Contact me here: contact@hramdas.in
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
