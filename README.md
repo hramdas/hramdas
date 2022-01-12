@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hedgapurer?label=Follow)](https://twitter.com/intent/follow?screen_name=hedgapurer)
 [![Linkedin: hramdas](https://img.shields.io/badge/-hramdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hramdas/)](https://www.linkedin.com/in/hramdas/)
-</a>
-<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hramdas/hramdas/main/files/code%20writing.gif" width="30%"  />
+
 
 I am an aspiring full-stack developer capable of writing production ready code using MERN stack. I am dedicated to developing interactive and user-friendly websites. I always love to learn new things.
-</a>
-<br/>
-<br/>
+</br>
+
 🌱 I’m currently working on MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
 - 📫 Contact me here: contact@hramdas.in
@@ -16,18 +16,20 @@ I am an aspiring full-stack developer capable of writing production ready code u
 - 🌐 [Portfolio](https://hramdas.in/)
 
 <br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hramdas/hramdas/main/files/code%20writing.gif" width="350"  />
+
 
 ## Languages and Tools
 <div align="start" >
-  <img alt="React" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
-  <img alt="ExpressJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
-  <img alt="NodeJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
   <img alt="Javascript" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/javascript.svg" />
-  <img alt="MongoDb" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
+  <img alt="React" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/react.svg" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="NextJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
   <img alt="HTML" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/html.svg" />
   <img alt="CSS" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/css.svg" />
-  <img alt="NextJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/nextjs.svg" />
+    <br/>
+  <img alt="NodeJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
+  <img alt="ExpressJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
+  <img alt="MongoDb" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
   <img alt="NPM" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
 </div>
 
