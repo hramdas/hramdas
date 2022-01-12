@@ -9,9 +9,10 @@ I'm a passionate full stack developer living in India.
 
 - 📫 Contact me here: hedgapurer@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
+- 🌐 [Portfolio](https://hramdas.in/)
 
 <br/>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350"  />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hramdas/hramdas/main/files/code%20writing.gif" width="350"  />
 
 ## Languages and Tools
 <div align="start" >
