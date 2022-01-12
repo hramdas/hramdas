@@ -7,7 +7,7 @@
 
 I am an aspiring full-stack developer capable of writing production ready code using MERN stack. I am dedicated to developing interactive and user-friendly websites. I always love to learn new things.
 
-- 📫 Contact me here: hedgapurer@gmail.com
+- 📫 Contact me here: contact@hramdas.in
 - 📝 [Resume](https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view)
 - 🌐 [Portfolio](https://hramdas.in/)
 
