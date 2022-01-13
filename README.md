@@ -14,7 +14,6 @@ I am an aspiring full-stack developer capable of writing production ready code u
 - 📫 Contact me here: contact@hramdas.in
 - 📝 <a href="https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view" target="_blank">Resume</a>
 - 🌐 <a href="https://hramdas.in/" target="_blank">Portfolio</a>
-- [go](https://hramdas.in/){:target="_blank" rel="noopener"}
 
 <br/>
 
