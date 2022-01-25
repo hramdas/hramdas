@@ -11,8 +11,7 @@ I am an aspiring full-stack developer capable of writing production ready code u
 
 🌱 I’m currently working on MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
-- 📫 Contact me here: contact@hramdas.in
-- 📝 <a href="https://drive.google.com/file/d/1Sp7zLn6z4LANdvWdXebPb32s6Rp3HoD1/view" target="_blank">Resume</a>
+- 📫 Contact me here: hedgapurer@gmail.com
 - 🌐 <a href="https://hramdas.in/" target="_blank">Portfolio</a>
 
 <br/>
