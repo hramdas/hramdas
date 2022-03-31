@@ -28,6 +28,7 @@ I am an aspiring full-stack developer capable of writing production ready code u
   <img alt="NodeJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/node.svg" />
   <img alt="ExpressJs" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/express.svg" />
   <img alt="MongoDb" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/mongodb.svg" />
+  <img alt="MySQL" src="https://raw.githubusercontent.com/hramdas/hramdas/c339aa70dbe57a5b415989ddac59aeb99147e9f9/files/mysql.svg" />
   <img alt="NPM" src="https://raw.githubusercontent.com/hramdas/hramdas/5cc2b21a0eba2511b907baefccd3a4208c7525c5/files/npm.svg" />
 </div>
 
