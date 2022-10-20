@@ -9,7 +9,7 @@
 I am an aspiring full-stack developer capable of writing production ready code using MERN stack. I am dedicated to developing interactive and user-friendly websites. I always love to learn new things.
 </br>
 
-🌱 I’m currently working on MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+🌱 I’m currently working on ReactJS, NodeJS, MySQL, MongoDB, ExpressJS.
 
 - 🌐 <a href="https://hramdas.in/" target="_blank">Portfolio</a>
 
